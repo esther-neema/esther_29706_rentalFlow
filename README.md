@@ -55,6 +55,8 @@ What makes this system different from the systems we studied:
 4. **Owner reports inside the database:** analytic (window) functions rank the most rented cars, show income per month with running totals, and show how busy each car is.
 5. **Full audit trail:** every insert, update, and delete on key tables is recorded with the user and the time.
 
+**Innovation option and tool:** a **user interface** built with **Python (Streamlit)**. Staff use it to book cars, record payments, and return cars, and the owner views reports. Every action calls RentalFlow's PL/SQL procedures on the real Oracle database, so the business rules stay in PL/SQL.
+
 ## 5. Planned tables
 
 | Table | Purpose | Main columns |
