@@ -1,12 +1,11 @@
 # RentalFlow: Car Rental Management System
 
-| | |
-|---|---|
-| **Student name** | Esther Neema |
-| **Student ID** | 29706 |
-| **Course** | Database Development with PL/SQL (INSY8311) |
-| **Lecturer** | Eric M. |
-| **Database** | Oracle Database with PL/SQL |
+
+ **Student name**  Esther Neema 
+ **Student ID**  29706 
+ **Course**  Database Development with PL/SQL (INSY8311) 
+ **Lecturer**  Eric M. 
+ **Database**  Oracle Database with PL/SQL 
 
 ## 1. Problem statement
 
